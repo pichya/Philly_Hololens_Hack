@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloToolkit-Unity", "Assembly-CSharp.csproj", "{0CE4E4E9-FDE7-764E-5E41-DFD1A2704B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloToolkit-Unity", "Assembly-CSharp-Editor.csproj", "{65A7B709-58D8-C6A0-EDDC-C63F6CD2E227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE4E4E9-FDE7-764E-5E41-DFD1A2704B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE4E4E9-FDE7-764E-5E41-DFD1A2704B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE4E4E9-FDE7-764E-5E41-DFD1A2704B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE4E4E9-FDE7-764E-5E41-DFD1A2704B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A7B709-58D8-C6A0-EDDC-C63F6CD2E227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A7B709-58D8-C6A0-EDDC-C63F6CD2E227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A7B709-58D8-C6A0-EDDC-C63F6CD2E227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A7B709-58D8-C6A0-EDDC-C63F6CD2E227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
