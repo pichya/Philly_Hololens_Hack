@@ -1,22 +1,15 @@
-# HoloToolkit-Unity
-This is effectively part of the existing HoloToolkit, but this is the repository that will contain all Unity specific components.
-The HoloToolkit is a collection of scripts and components intended to accelerate development of holographic applications targeting Windows Holographic.
+# HoloTrope for Philly Holohack
 
-**Required Unity Editor Version: 5.6.1f1**
+Using the Holotoolkit Package as a basis for my Hololens Hack project to recreate a Zoetrope animation inside the hololens. Positions individual stop-frame photographs from Edward Muybridges experiments in capturing human and animal locomotion inside a virtual drum. Rotating the drum and setting off a strobe light will activate the animations. The zoetrope was considered a "visual toy" so recreating this inside the 21st equivalent of the visual toy using images captured during the 19th century is quite profound.
 
-HoloToolkit contains the following feature areas:
-
-1. [Input](Assets/HoloToolkit/Input/README.md)
-2. [Sharing](Assets/HoloToolkit/Sharing/README.md)
-3. [Spatial Mapping](Assets/HoloToolkit/SpatialMapping/README.md)
-4. [Spatial Understanding](Assets/HoloToolkit/SpatialUnderstanding/README.md)
-5. [Spatial Sound](Assets/HoloToolkit/SpatialSound/README.md)
-6. [Utilities](Assets/HoloToolkit/Utilities/README.md)
-7. [Build](Assets/HoloToolkit/Build/README.md)
-
-To learn more about individual HoloLens feature areas, please read the [Wiki](https://github.com/Microsoft/HoloToolkit-Unity/wiki) section.
-
-To learn how to add the HoloToolkit to your project see the [Getting Started](GettingStarted.md) guide.
+Voice commands to play the app:
+Start Spin - rotates the photos
+Stop Spin - halts the rotation
+Strobe On - cues the strobe light to flash on/off
+Strobe Off - halts the strobe light flashing
+Show Elephant - displays the elephant frames
+Show Monkey - displays the monkey frames
+Show Cat - displays the cat frames
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). 
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
